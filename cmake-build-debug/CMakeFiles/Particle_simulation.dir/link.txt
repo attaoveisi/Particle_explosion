@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Particle_simulation.dir/main.cpp.o CMakeFiles/Particle_simulation.dir/Particle.cpp.o CMakeFiles/Particle_simulation.dir/Swarm.cpp.o  -o Particle_simulation  -lSDL2 -lSDL2_image 
