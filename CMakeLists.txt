@@ -3,5 +3,5 @@ project(Particle_simulation)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Particle_simulation main.cpp Particle.cpp Particle.h Swarm.cpp Swarm.h)
+add_executable(Particle_simulation main.cpp Particle.cpp Particle.h Swarm.cpp Swarm.h Screen.cpp Screen.h)
 target_link_libraries(Particle_simulation SDL2 SDL2_image)
